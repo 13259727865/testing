@@ -14,8 +14,18 @@ from Calculator.cacl import Cacl
 class Test_cacl:
 	#获取用例数据
 	data = yaml.safe_load(open(r'F:\untitled1\testing\Advanced\cacl_data.yaml','rb'))
+
+	#类setup实例化
 	def setup_class(self):
 		self.cacl1 = Cacl()
+
+	#函数setup
+	def setup(self):
+		print("开始计算")
+
+	#函数teardown
+	def teardown(self):
+		print("计算结束")
 
 	#参数化
 	@pytest.mark.parametrize('a,b,c',data['add'],ids = data['addid'])
