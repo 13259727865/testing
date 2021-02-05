@@ -1,9 +1,129 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69d04806-09f6-4e0d-8264-62616b7add0e" name="Default" comment="pytest第一次作业">
+    <list default="true" id="69d04806-09f6-4e0d-8264-62616b7add0e" name="Default" comment="生成allure报告">
+      <change afterPath="$PROJECT_DIR$/allure-report/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/attachments/10e92b32d868238c.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/attachments/1fd4e8ca97006995.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/attachments/2f874b8d24dea34b.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/attachments/31b48b3e05687595.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/attachments/56de0657f0928102.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/attachments/59eb1c21ae805821.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/attachments/711247f1773e4485.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/attachments/78d97e1f5dc21a5f.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/attachments/967b76c832e1b3dc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/attachments/c1524eb7685ace76.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/attachments/d11ddd6225c2ea13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/attachments/d8507faaf3e4b180.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/attachments/dae4c7d247b1ccc0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/attachments/ec042e24f294f825.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/attachments/fb9cddc2f28fc373.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/behaviors.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/behaviors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/categories.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/categories.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/packages.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/suites.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/suites.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/144f63206cc2ab68.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/1d56c8763f53eab8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/1eb2abbdfb55b90d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/2a27e6e4ff9072c2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/2dd9423fa86e2d89.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/2fe685ff0835c15d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/302f52b51edca4b6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/3d4dbd1954b89c3a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/473de1cf6acd6736.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/48806f3d50a84cda.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/497b5f6aa2644e41.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/4fd96bee963b90fd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/50f2fdb8193b1b73.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/54028ae14cedc8af.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/55ec98c89a13a6a7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/569f1ba6c00dedc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/57e74397c66ad3e6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/596302aa1aeb3392.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/6078be43dbd8724a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/66d3cd9daf17af06.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/67abecfa66110f83.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/6ece7a35f49558e5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/7138a8edf3a6dd95.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/746775a09e74c246.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/78eb0c8a5f12787d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/79dbc1522aef7d5c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/7a5d641948b961df.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/7a850c559479b282.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/7d96cc030cfc48a1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/7eceaada39c22dea.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/7fbb796221fbc12b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/8206ecf3e35a029e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/85d445cc9d2a3377.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/8a0c6bb5605a9ff3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/8c7292d56587a9ed.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/8cdf3c5fd4fd3d2f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/917cf63b419d20cd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/929a9f476715682b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/93149759af159c78.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/9352d8aca6894d81.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/97a4c6d393f88de2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/997d920aaf5e67bc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/9ba913b64d3c42b9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/9d4e4ae3caa5b1ce.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/9f2f2f727e7ce4ff.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/ab955f684be1e86a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/b2641348043a6427.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/bd2082d743b29026.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/bdee8aae55f029db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/c3f265b65779920a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/c87fa12fd80440fe.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/ca6a67e72ceaaaac.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/cca48853c3a2251f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/ccf5de32f471cce3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/cd6b81ccb98b6c04.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/d281be784161baae.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/d5b95f005361b6c2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/d6494eb875f667d7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/e31f515d9aa6b301.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/ea8300b09b721350.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/ea94c09a1e7dfb22.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/eb9304cd89559011.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/f2b18f8def17c88d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/f58d28dbe855f7e9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/fc8f74032629c8ff.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/fe63144f12a6eddd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/feb37e9f04e77ebb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/timeline.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/export/influxDbData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/export/mail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/export/prometheusData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/history/categories-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/history/duration-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/history/history-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/history/history.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/history/retry-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/plugins/behaviors/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/plugins/packages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/plugins/screen-diff/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/plugins/screen-diff/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/behaviors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/categories-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/categories.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/duration-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/duration.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/environment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/executors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/history-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/retry-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/severity.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/status-chart.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/suites.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/summary.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Advanced/test_cacl.py" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced/test_cacl.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/test_cacl_plus.py" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced/test_cacl_plus.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,11 +134,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test_cacl.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test_cacl.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Advanced/test_cacl.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="25" column="15" lean-forward="true" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
+            <state relative-caret-position="274">
+              <caret line="34" column="31" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
               <folding>
                 <element signature="e#61#74#0" expanded="true" />
               </folding>
@@ -26,25 +146,53 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Advanced/__init__.py">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="runcaclplus.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Advanced/runcaclplus.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pytest.ini" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pytest.ini">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="11" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="cacl_data.yaml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Advanced/cacl_data.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1596">
-              <caret line="76" column="7" selection-start-line="76" selection-start-column="7" selection-end-line="76" selection-end-column="7" />
+            <state relative-caret-position="947">
+              <caret line="53" selection-start-line="53" selection-end-line="53" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cacl.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Calculator/cacl.py">
+      <file leaf-file-name="conftest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conftest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="861">
-              <caret line="41" column="44" selection-start-line="41" selection-start-column="44" selection-end-line="41" selection-end-column="44" />
+            <state relative-caret-position="153">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#60#73#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_cacl_plus.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Advanced/test_cacl_plus.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="33" column="20" lean-forward="true" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+              <folding>
+                <element signature="e#60#82#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -73,15 +221,21 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/pytest.ini" />
+        <option value="$PROJECT_DIR$/test_fixtear/test_demo1.py" />
+        <option value="$PROJECT_DIR$/Advanced/.pytest_cache/test_cacl_plus.py" />
         <option value="$PROJECT_DIR$/Calculator/cacl.py" />
-        <option value="$PROJECT_DIR$/Advanced/cacl_data.yaml" />
         <option value="$PROJECT_DIR$/Advanced/test_cacl.py" />
+        <option value="$PROJECT_DIR$/Advanced/cacl_data.yaml" />
+        <option value="$PROJECT_DIR$/conftest.py" />
+        <option value="$PROJECT_DIR$/Advanced/runcaclplus.py" />
+        <option value="$PROJECT_DIR$/Advanced/test_cacl_plus.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-32" />
-    <option name="y" value="18" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="19" />
+    <option name="y" value="15" />
     <option name="width" value="1892" />
     <option name="height" value="1059" />
   </component>
@@ -107,7 +261,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="D:/Program Files/Git/cmd/git.exe" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\untitled1\testing\Advanced" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -121,8 +280,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.py.test for test_cacl.Test_cacl">
-    <configuration name="py.test for test_cacl.Test_add" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.py.test for test_cacl_plus.TestCaclPlus.test_add">
+    <configuration name="runcaclplus" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="testing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/runcaclplus.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="py.test for test_cacl_plus.TestCaclPlus" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="testing" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,10 +310,10 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_cacl.Test_add&quot;" />
+      <option name="_new_target" value="&quot;test_cacl_plus.TestCaclPlus&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="py.test for test_cacl.Test_add.test_add_1" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="py.test for test_cacl_plus.TestCaclPlus.test_add" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="testing" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -147,10 +324,10 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_cacl.Test_add.test_add_1&quot;" />
+      <option name="_new_target" value="&quot;test_cacl_plus.TestCaclPlus.test_add&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="py.test for test_cacl.Test_add.test_div" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="py.test for test_cacl_plus.TestCaclPlus.test_div" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="testing" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -161,10 +338,10 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_cacl.Test_add.test_div&quot;" />
+      <option name="_new_target" value="&quot;test_cacl_plus.TestCaclPlus.test_div&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="py.test for test_cacl.Test_cacl" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="py.test for test_cacl_plus.TestCaclPlus.test_sub" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="testing" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -175,37 +352,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_cacl.Test_cacl&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-    </configuration>
-    <configuration name="py.test for test_cacl.Test_cacl.test_div" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="testing" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_cacl.Test_cacl.test_div&quot;" />
+      <option name="_new_target" value="&quot;test_cacl_plus.TestCaclPlus.test_sub&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.py.test for test_cacl.Test_add" />
-      <item itemvalue="Python tests.py.test for test_cacl.Test_add.test_add_1" />
-      <item itemvalue="Python tests.py.test for test_cacl.Test_add.test_div" />
-      <item itemvalue="Python tests.py.test for test_cacl.Test_cacl.test_div" />
-      <item itemvalue="Python tests.py.test for test_cacl.Test_cacl" />
+      <item itemvalue="Python tests.py.test for test_cacl_plus.TestCaclPlus.test_add" />
+      <item itemvalue="Python tests.py.test for test_cacl_plus.TestCaclPlus" />
+      <item itemvalue="Python tests.py.test for test_cacl_plus.TestCaclPlus.test_div" />
+      <item itemvalue="Python tests.py.test for test_cacl_plus.TestCaclPlus.test_sub" />
+      <item itemvalue="Python.runcaclplus" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.py.test for test_cacl.Test_cacl" />
-        <item itemvalue="Python tests.py.test for test_cacl.Test_cacl.test_div" />
-        <item itemvalue="Python tests.py.test for test_cacl.Test_add.test_div" />
-        <item itemvalue="Python tests.py.test for test_cacl.Test_add" />
-        <item itemvalue="Python tests.py.test for test_cacl.Test_add.test_add_1" />
+        <item itemvalue="Python tests.py.test for test_cacl_plus.TestCaclPlus.test_add" />
+        <item itemvalue="Python tests.py.test for test_cacl_plus.TestCaclPlus" />
+        <item itemvalue="Python.runcaclplus" />
+        <item itemvalue="Python tests.py.test for test_cacl_plus.TestCaclPlus.test_sub" />
+        <item itemvalue="Python tests.py.test for test_cacl_plus.TestCaclPlus.test_div" />
       </list>
     </recent_temporary>
   </component>
@@ -234,55 +397,68 @@
       <option name="project" value="LOCAL" />
       <updated>1612331951354</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="pytest第一次作业">
+      <created>1612332694518</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1612332694519</updated>
+    </task>
+    <task id="LOCAL-00004" summary="pytest第一次作业">
+      <created>1612510734682</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1612510734682</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_for_test_cacl_Test_add_test_add_1 - 2021.02.03 at 09h 46m 40s.xml">
-      <configuration name="py.test for test_cacl.Test_add.test_add_1" configurationId="tests" />
+    <history-entry file="py_test_for_test_cacl_plus_TestCaclPlus - 2021.02.05 at 15h 09m 33s.xml">
+      <configuration name="py.test for test_cacl_plus.TestCaclPlus" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_cacl_Test_add - 2021.02.03 at 09h 46m 46s.xml">
-      <configuration name="py.test for test_cacl.Test_add" configurationId="tests" />
+    <history-entry file="py_test_for_test_cacl_plus_TestCaclPlus - 2021.02.05 at 15h 10m 10s.xml">
+      <configuration name="py.test for test_cacl_plus.TestCaclPlus" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_cacl_Test_add_test_div - 2021.02.03 at 10h 04m 09s.xml">
-      <configuration name="py.test for test_cacl.Test_add.test_div" configurationId="tests" />
+    <history-entry file="py_test_for_test_cacl_plus_TestCaclPlus_test_sub - 2021.02.05 at 15h 10m 38s.xml">
+      <configuration name="py.test for test_cacl_plus.TestCaclPlus.test_sub" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_cacl_Test_add_test_div - 2021.02.03 at 10h 41m 17s.xml">
-      <configuration name="py.test for test_cacl.Test_add.test_div" configurationId="tests" />
+    <history-entry file="py_test_for_test_cacl_plus_TestCaclPlus - 2021.02.05 at 15h 13m 33s.xml">
+      <configuration name="py.test for test_cacl_plus.TestCaclPlus" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_cacl_Test_cacl_test_div - 2021.02.03 at 10h 45m 57s.xml">
-      <configuration name="py.test for test_cacl.Test_cacl.test_div" configurationId="tests" />
+    <history-entry file="py_test_for_test_cacl_plus_TestCaclPlus - 2021.02.05 at 15h 31m 52s.xml">
+      <configuration name="py.test for test_cacl_plus.TestCaclPlus" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_cacl_Test_cacl_test_div - 2021.02.03 at 10h 46m 53s.xml">
-      <configuration name="py.test for test_cacl.Test_cacl.test_div" configurationId="tests" />
+    <history-entry file="py_test_for_test_cacl_plus_TestCaclPlus - 2021.02.05 at 16h 06m 44s.xml">
+      <configuration name="py.test for test_cacl_plus.TestCaclPlus" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_cacl_Test_cacl_test_div - 2021.02.03 at 10h 48m 00s.xml">
-      <configuration name="py.test for test_cacl.Test_cacl.test_div" configurationId="tests" />
+    <history-entry file="py_test_for_test_cacl_plus_TestCaclPlus_test_add - 2021.02.05 at 16h 13m 46s.xml">
+      <configuration name="py.test for test_cacl_plus.TestCaclPlus.test_add" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_cacl_Test_cacl_test_div - 2021.02.03 at 10h 48m 20s.xml">
-      <configuration name="py.test for test_cacl.Test_cacl.test_div" configurationId="tests" />
+    <history-entry file="py_test_for_test_cacl_plus_TestCaclPlus_test_add - 2021.02.05 at 16h 14m 14s.xml">
+      <configuration name="py.test for test_cacl_plus.TestCaclPlus.test_add" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_cacl_Test_cacl_test_div - 2021.02.03 at 10h 51m 51s.xml">
-      <configuration name="py.test for test_cacl.Test_cacl.test_div" configurationId="tests" />
+    <history-entry file="py_test_for_test_cacl_plus_TestCaclPlus_test_add - 2021.02.05 at 16h 15m 33s.xml">
+      <configuration name="py.test for test_cacl_plus.TestCaclPlus.test_add" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_cacl_Test_cacl_test_div - 2021.02.03 at 10h 53m 23s.xml">
-      <configuration name="py.test for test_cacl.Test_cacl.test_div" configurationId="tests" />
+    <history-entry file="py_test_for_test_cacl_plus_TestCaclPlus_test_add - 2021.02.05 at 16h 16m 37s.xml">
+      <configuration name="py.test for test_cacl_plus.TestCaclPlus.test_add" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-32" y="18" width="1892" height="1059" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.122977346" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24446785" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5010787" side_tool="true" weight="0.52877307" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49892125" visible="true" weight="0.52877307" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32899022" />
       <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49892125" weight="0.43899783" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49892125" weight="0.32899022" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49892125" visible="true" weight="0.48801744" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3995657" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -307,9 +483,42 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="pytest第一次作业" />
-    <option name="LAST_COMMIT_MESSAGE" value="pytest第一次作业" />
+    <MESSAGE value="生成allure报告" />
+    <option name="LAST_COMMIT_MESSAGE" value="生成allure报告" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Advanced/test_cacl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" column="15" lean-forward="true" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
+          <folding>
+            <element signature="e#61#74#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced/cacl_data.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1596">
+          <caret line="76" column="7" selection-start-line="76" selection-start-column="7" selection-end-line="76" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Calculator/cacl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="861">
+          <caret line="41" column="44" selection-start-line="41" selection-start-column="44" selection-end-line="41" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Advanced/test_cacl.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="756">
@@ -377,26 +586,123 @@
     <entry file="file://$PROJECT_DIR$/Advanced/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Calculator/cacl.py">
+    <entry file="file://$PROJECT_DIR$/test_fixtear/test_demo1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="861">
-          <caret line="41" column="44" selection-start-line="41" selection-start-column="44" selection-end-line="41" selection-end-column="44" />
+        <state>
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/cacl_data.yaml">
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/_pytest/mark/structures.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1596">
-          <caret line="76" column="7" selection-start-line="76" selection-start-column="7" selection-end-line="76" selection-end-column="7" />
+        <state relative-caret-position="191">
+          <caret line="507" column="79" lean-forward="true" selection-start-line="507" selection-start-column="79" selection-end-line="507" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Calculator/cacl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357">
+          <caret line="43" column="7" lean-forward="true" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/_pytest/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="347" selection-start-line="347" selection-end-line="347" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pluggy/hooks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="285" selection-start-line="285" selection-end-line="285" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pluggy/manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="92" selection-start-line="92" selection-end-line="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pluggy/callers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="186" selection-start-line="186" selection-end-line="186" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/_pytest/runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="108" selection-start-line="108" selection-end-line="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/_pytest/python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="1640" selection-start-line="1640" selection-end-line="1640" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/_pytest/fixtures.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5">
+          <caret line="1306" column="46" selection-start-line="1306" selection-start-column="46" selection-end-line="1306" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pytest.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conftest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#60#73#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Advanced/test_cacl.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="25" column="15" lean-forward="true" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
+        <state relative-caret-position="274">
+          <caret line="34" column="31" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
           <folding>
             <element signature="e#61#74#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced/cacl_data.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="947">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced/runcaclplus.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced/test_cacl_plus.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="33" column="20" lean-forward="true" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+          <folding>
+            <element signature="e#60#82#0" expanded="true" />
           </folding>
         </state>
       </provider>

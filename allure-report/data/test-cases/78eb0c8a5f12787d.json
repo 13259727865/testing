@@ -1,0 +1,101 @@
+{
+  "uid" : "78eb0c8a5f12787d",
+  "name" : "test_mul[m105]",
+  "fullName" : "Advanced.test_cacl_plus.TestCaclPlus#test_mul",
+  "historyId" : "6883b9a2d23e78786b9c62bf0403f1a1",
+  "time" : {
+    "start" : 1612513642074,
+    "stop" : 1612513642075,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "frist_cla",
+    "time" : {
+      "start" : 1612513641421,
+      "stop" : 1612513641421,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "frist_cla::0",
+    "time" : {
+      "start" : 1612513642619,
+      "stop" : 1612513642619,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "run(order=3)"
+  }, {
+    "name" : "tag",
+    "value" : "@pytest.mark.usefixtures('frist_cla')"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Advanced"
+  }, {
+    "name" : "suite",
+    "value" : "test_cacl_plus"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCaclPlus"
+  }, {
+    "name" : "host",
+    "value" : "admin-PC"
+  }, {
+    "name" : "thread",
+    "value" : "392-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Advanced.test_cacl_plus"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "a",
+    "value" : "-99"
+  }, {
+    "name" : "b",
+    "value" : "15"
+  }, {
+    "name" : "c",
+    "value" : "-1485"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "run(order=3)", "@pytest.mark.usefixtures('frist_cla')" ]
+  },
+  "source" : "78eb0c8a5f12787d.json",
+  "parameterValues" : [ "-99", "15", "-1485" ]
+}

@@ -9,7 +9,7 @@ import yaml
 
 
 #获取用例数据
-data = yaml.safe_load(open("cacl_data.yaml",'rb'))
+data = yaml.safe_load(open(r"F:\untitled1\testing\Advanced\cacl_data.yaml",'rb'))
 
 #定义各用例数据变量
 add_params,add_id = data['params']['add'],data['id']['addid']

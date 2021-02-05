@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "b59a9278356e874746bc36d81da049e5",
+    "name" : "Advanced",
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 65,
+      "unknown" : 0,
+      "total" : 67
+    }
+  } ]
+}

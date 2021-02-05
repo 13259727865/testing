@@ -1,0 +1,141 @@
+{
+  "uid" : "7a850c559479b282",
+  "name" : "test_add[a104]",
+  "fullName" : "Advanced.test_cacl_plus.TestCaclPlus#test_add",
+  "historyId" : "1fc962421767e10dbc74da002abdee9d",
+  "time" : {
+    "start" : 1612513641468,
+    "stop" : 1612513641468,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "add_data",
+    "time" : {
+      "start" : 1612513641466,
+      "stop" : 1612513641466,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "frist_cla",
+    "time" : {
+      "start" : 1612513641421,
+      "stop" : 1612513641421,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d8507faaf3e4b180",
+      "name" : "stdout",
+      "source" : "d8507faaf3e4b180.txt",
+      "type" : "text/plain",
+      "size" : 13
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "add_data::0",
+    "time" : {
+      "start" : 1612513641469,
+      "stop" : 1612513641469,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "frist_cla::0",
+    "time" : {
+      "start" : 1612513642619,
+      "stop" : 1612513642619,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "run(order=1)"
+  }, {
+    "name" : "tag",
+    "value" : "@pytest.mark.usefixtures('add_data')"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Advanced"
+  }, {
+    "name" : "suite",
+    "value" : "test_cacl_plus"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCaclPlus"
+  }, {
+    "name" : "host",
+    "value" : "admin-PC"
+  }, {
+    "name" : "thread",
+    "value" : "392-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Advanced.test_cacl_plus"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "add_data",
+    "value" : "[-2.3, 3.8, 1.5]"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "run(order=1)", "@pytest.mark.usefixtures('add_data')" ]
+  },
+  "source" : "7a850c559479b282.json",
+  "parameterValues" : [ "[-2.3, 3.8, 1.5]" ]
+}
